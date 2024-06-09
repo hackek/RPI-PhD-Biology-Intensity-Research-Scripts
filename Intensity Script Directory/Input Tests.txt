@@ -1,0 +1,9 @@
+Initial Plateau: average of the first
+Final Plateau: 0
+
+Excel input formatter saves about 35 minutes.
+Script itself saves about 30 minutes.
+Make sure it can handle NANs
+- Allow removing outlier data at the end
+- Allow reading of input data and excel input data seperately
+
